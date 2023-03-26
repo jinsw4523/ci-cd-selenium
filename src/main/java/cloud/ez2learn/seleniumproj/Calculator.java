@@ -2,7 +2,7 @@ package cloud.ez2learn.seleniumproj;
 
 public class Calculator {
 
-    private int a;
+    private int  a;
     private int b;
    // private int sum;
     private int result;
